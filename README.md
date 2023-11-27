@@ -1,4 +1,4 @@
-# ETL|SSIS - Telecom
+# ETL | SSIS - Telecom
 ETL Telecom Case Study using SQL Server Integration Services (SSIS)
 
 # We came up first with company business demands and found :
